@@ -1,0 +1,12 @@
+{
+  "name": "com.biscuit.sampletoolkit",
+  "version": "1.0.0",
+  "displayName": "Sample tool kit",
+  "description": "description here",
+  "unity": "2022.3",
+  "author": {
+    "name": "Bisscuit",
+    "email": "bilkis02556@gmail.com",
+    "url": ""
+  }
+}
